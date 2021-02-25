@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Best Property in Gurgaon | Luxury Projects in Gurgaon - Bestech</title>
+<title>Bestech</title>
 <meta name="description" content="Bestech Group is the best property development company in Gurgaon. We have NCR's best luxury projects in Gurgaon. We deal in both residentail & commercial projects."/>
 <meta name="keywords" content="bestech group, property in gurgaon, best property in gurgaon, property for sale in gurgaon, 3 bhk flats in gurgaon, 4 bhk flats in gurgaon, projects in gurgaon, apartments in gurgaon, residential projects in gurgaon, housing projects in gurgaon, construction company in gurgaon"/>
 <link rel="icon" href="images/favicon.png">
